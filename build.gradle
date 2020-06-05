@@ -5,7 +5,7 @@ plugins {
 	id 'java'
 }
 
-group = 'pdf-conversion-sdk'
+group = 'ims.keystone.microservice'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '1.8'
 
